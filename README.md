@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
      panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
